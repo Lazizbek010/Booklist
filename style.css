@@ -1,0 +1,10 @@
+.container{
+    max-width: 900px;
+    width: 100%;
+}
+.delete{
+    cursor: pointer;
+}
+.fas{
+    pointer-events: none;
+}
