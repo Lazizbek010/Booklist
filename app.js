@@ -1,7 +1,7 @@
 const form = document.querySelector('form');
 const tbody = document.querySelector('tbody');
 const container = document.querySelector('.container');
-
+// Formani ichide inputni olish uchun uni queryselector qilishni orniga form.(inputid) qilish osonroq
 // Constructor Function
 function Book(name, author, year) {
     this.name = name;
